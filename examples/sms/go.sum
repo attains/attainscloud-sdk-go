@@ -1,0 +1,4 @@
+github.com/attains/attainscloud-sdk-go/core v0.0.0-20231126161644-e1ee4f1d05ab h1:InJ93EcaMk4rkGBSJuNRumNyOsaa7aF14Kinz6Hn+EM=
+github.com/attains/attainscloud-sdk-go/core v0.0.0-20231126161644-e1ee4f1d05ab/go.mod h1:aLVky9P+rdsKd6ItDdVQlbCv9oE5VhsgfaY3KeapbUw=
+github.com/attains/attainscloud-sdk-go/services/sms v0.0.0-20231126162149-4b61ac7c510f h1:iV6clJoId36QafcRKaT5QbrDGxfPBEI+8JoW0Hs8BSI=
+github.com/attains/attainscloud-sdk-go/services/sms v0.0.0-20231126162149-4b61ac7c510f/go.mod h1:LC4pZbkBgZMG2Rab3ABPFi0H9ccdkBpN/5tV+5Z4Rfw=
